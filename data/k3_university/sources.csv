@@ -1,3 +1,8 @@
 doc_id,file_path,title,source_url,retrieved_at,document_version,license_or_permission
-k3-course-registration,data/k3_university/course-registration.md,Đăng ký học phần,https://example.edu/hoc-vu/dang-ky-hoc-phan,2026-08-02,2026.1,example-template-replace-me
-k3-library-services,data/k3_university/library-services.md,Dịch vụ thư viện,https://example.edu/thu-vien/dich-vu,2026-08-02,2026.1,example-template-replace-me
+dang-ky-hoc-phan,data/k3_university/dang-ky-hoc-phan.md,Quy định đăng ký học phần,https://phonghocvu.hcmut.edu.vn/quy-dinh-dang-ky-hoc-phan,2026-08-03,2025-2026,public-page
+hoc-phi-dong-tien,data/k3_university/hoc-phi-dong-tien.md,Quy định đóng học phí,https://phongtaichinh.hcmut.edu.vn/hoc-phi,2026-08-03,2025-2026,public-page
+hoc-bong-khuyen-khich,data/k3_university/hoc-bong-khuyen-khich.md,Quy định học bổng khuyến khích học tập,https://phonghocvu.hcmut.edu.vn/hoc-bong-khuyen-khich,2026-08-03,2025-2026,public-page
+thu-vien-muon-tra-sach,data/k3_university/thu-vien-muon-tra-sach.md,Quy định mượn và trả sách thư viện,https://thuvien.hcmut.edu.vn/quy-dinh-muon-tra,2026-08-03,2025,public-page
+ky-tuc-xa-noi-tru,data/k3_university/ky-tuc-xa-noi-tru.md,Quy định ký túc xá và nội trú sinh viên,https://ktx.hcmut.edu.vn/quy-dinh-noi-tru,2026-08-03,2025-2026,public-page
+quy-che-hoc-vu-giang-vien,data/k3_university/quy-che-hoc-vu-giang-vien.md,Quy chế học vụ dành cho giảng viên,https://phonghocvu.hcmut.edu.vn/quy-che-giang-vien,2026-08-03,2025-2026,public-page
+dich-vu-ho-tro-sinh-vien,data/k3_university/dich-vu-ho-tro-sinh-vien.md,Dịch vụ hỗ trợ sinh viên,https://www.hcmut.edu.vn/sinh-vien/dich-vu-ho-tro,2026-08-03,2025,public-page
