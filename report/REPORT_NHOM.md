@@ -1,6 +1,6 @@
 # Báo Cáo Nhóm — Lab 7: Embedding & Vector Store
 
-**Nhóm/Lớp:** K3 — Dịch vụ và quy định Trường Đại học VinUni
+**Nhóm/Lớp:** DUO - E403 — Dịch vụ và quy định Trường Đại học VinUni
 
 **Thành viên:**
 
